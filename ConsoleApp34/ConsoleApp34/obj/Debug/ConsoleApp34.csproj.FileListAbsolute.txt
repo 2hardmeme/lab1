@@ -1,0 +1,14 @@
+C:\Users\trifo\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.exe.config
+C:\Users\trifo\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.exe
+C:\Users\trifo\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.pdb
+C:\Users\trifo\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.csprojAssemblyReference.cache
+C:\Users\trifo\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.csproj.CoreCompileInputs.cache
+C:\Users\trifo\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.exe
+C:\Users\trifo\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.pdb
+D:\University\ООП\1 laba\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.exe.config
+D:\University\ООП\1 laba\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.exe
+D:\University\ООП\1 laba\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.pdb
+D:\University\ООП\1 laba\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.csprojAssemblyReference.cache
+D:\University\ООП\1 laba\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.csproj.CoreCompileInputs.cache
+D:\University\ООП\1 laba\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.exe
+D:\University\ООП\1 laba\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.pdb
